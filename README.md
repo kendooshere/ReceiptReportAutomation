@@ -87,6 +87,6 @@ DOWNLOAD_PATH=path/to/local/download/directory
 
 ## 💎 Business Impact
 
-* **⏱️ Operational Efficiency:** Completely eliminates 15–20 minutes of daily tedious clicking, manual folder sorting, file conversion, and row patching.
+* **⏱️ Operational Efficiency:** Completely eliminates 50-60 minutes of daily tedious clicking, manual folder sorting, file conversion, and row patching.
 * **🎯 Data Integrity:** Removes human copy-paste errors, ensuring critical downstream financial dashboards ingest perfectly uniform, pristine structural arrays.
 * **⚡ Reporting Agility:** Empowers senior management and review teams with instantly accessible, real-time receipt visibility directly on their centralized dashboards.
